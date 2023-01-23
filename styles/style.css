@@ -7,3 +7,23 @@
     height: 50px;
     color: whitesmoke;
 }
+#search-btn{
+    background-color: #B68C5A;
+    color: whitesmoke;
+}
+.banner{
+    background-image: url(../images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    padding: 200px 50px;
+    margin: 50px 0;
+    color: white;
+    background-size: cover;
+    border-radius: 10px;
+}
+section{
+    margin: 100px 0;
+}
+#arrow{
+    background-color: #B68C5A;
+    cursor: pointer;
+}
