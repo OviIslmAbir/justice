@@ -1,6 +1,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+section{
+    margin: 100px 0;
+}
+/* header styles start */
 #sign-btn{
     background-color: #B68C5A;
     width: 200px;
@@ -20,11 +24,11 @@
     background-size: cover;
     border-radius: 10px;
 }
-section{
-    margin: 100px 0;
-}
+/* header styles end */
+
+/* main style start */
 #arrow{
     background-color: #B68C5A;
     cursor: pointer;
 }
-
+/* main style end */
