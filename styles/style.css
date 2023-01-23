@@ -1,0 +1,9 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#sign-btn{
+    background-color: #B68C5A;
+    width: 200px;
+    height: 50px;
+    color: whitesmoke;
+}
